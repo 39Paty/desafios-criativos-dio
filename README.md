@@ -31,7 +31,7 @@ Sua tarefa é analisar feedbacks de clientes coletados em pesquisas de satisfaç
 
 ---
 
-## 🧪 Simulado da Resposta da IA
+## Simulado da Resposta da IA
 
 ### Resumo Executivo
 Os feedbacks analisados mostram insatisfação com tarifas e instabilidade no aplicativo, elogios ao Pix pela rapidez e críticas ao atendimento digital pela demora em resolver problemas. Há oportunidades claras de melhoria em usabilidade e suporte.
